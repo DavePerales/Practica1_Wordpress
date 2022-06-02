@@ -2,7 +2,6 @@
 
 ## Tabla de contenidos
 - [Práctica 1](#práctica-1)
-  - [Table of Contents](#table-of-contents)
   - [Objetivo](#objetivo)
   - [Procedimiento](#procedimiento)
   - [Consideraciones](#consideraciones)
