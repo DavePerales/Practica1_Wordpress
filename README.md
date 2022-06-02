@@ -1,6 +1,6 @@
 # Práctica 1
 
-## Table of Contents
+## Tabla de contenidos
 - [Práctica 1](#práctica-1)
   - [Table of Contents](#table-of-contents)
   - [Objetivo](#objetivo)
